@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\bin\Debug\VariablesAxel.exe.config
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\bin\Debug\VariablesAxel.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\bin\Debug\VariablesAxel.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\obj\Debug\VariablesAxel.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\obj\Debug\VariablesAxel.Properties.Resources.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\obj\Debug\VariablesAxel.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\obj\Debug\VariablesAxel.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\obj\Debug\VariablesAxel.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\obj\Debug\VariablesAxel.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\PRACTICA6\VariablesAxel\VariablesAxel\obj\Debug\VariablesAxel.Form1.resources
